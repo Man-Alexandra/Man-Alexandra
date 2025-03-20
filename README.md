@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<table>
 <tr>
     <td>
       <ul>
@@ -27,3 +28,4 @@ Here are some ideas to get you started:
       <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Man-Alexandra&theme=radical" alt="GitHub Contribution Graph"/>
     </td>
   </tr>
+</table>
