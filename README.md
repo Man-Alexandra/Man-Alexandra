@@ -25,7 +25,7 @@ Here are some ideas to get you started:
       </ul>
     </td>
     <td>
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Man-Alexandra&theme=radical" alt="GitHub Contribution Graph"/>
+     ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Man-Alexandra&theme=react-dark)
     </td>
   </tr>
 </table>
