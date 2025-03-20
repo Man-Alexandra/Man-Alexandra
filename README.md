@@ -14,8 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- ![GitHub Icon](https://cdn-icons-png.flaticon.com/128/733/733553.png) (https://badges.pufler.dev/commits/monthly/Man-Alexandra) contributions on GitHub
- ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=radical) 
- ![Repos Icon](https://cdn-icons-png.flaticon.com/128/9168/9168210.png) **Public Repos:** [Your Public Repos](https://github.com/your-username?tab=repositories) 
- ![Date Icon](https://cdn-icons-png.flaticon.com/128/7471/7471685.png) **Date of Joining:** ![Date Badge](https://badges.pufler.dev/created/your-username) 
- ![Email Icon](https://cdn-icons-png.flaticon.com/128/2530/2530217.png) **Email:** ale.man25@yahoo.ro 
+<tr>
+    <td>
+      <ul>
+        <li><img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" width="30"/> (https://badges.pufler.dev/commits/monthly/Man-Alexandra) contributions on GitHub</li>
+        <li><img src="https://cdn-icons-png.flaticon.com/128/9168/9168210.png" width="30"/> <strong>public repos:</strong> [Your Public Repos](https://github.com/your-username?tab=repositories)</li>
+        <li><img src="https://cdn-icons-png.flaticon.com/128/7471/7471685.png" width="30"/> <strong>Date of Joining:</strong> !(https://badges.pufler.dev/created/your-username)</li>
+        <li><img src="https://cdn-icons-png.flaticon.com/128/2530/2530217.png" width="30"/> <strong>Email:</strong> ale.man25@yahoo.ro</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=radical" alt="GitHub Contribution Graph"/>
+    </td>
+  </tr>
