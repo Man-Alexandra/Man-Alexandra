@@ -25,7 +25,7 @@ Here are some ideas to get you started:
       </ul>
     </td>
     <td>
-     ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Man-Alexandra&theme=react-dark)
+     ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Man-Alexandra&show_icons=true&count_private=true)
     </td>
   </tr>
 </table>
