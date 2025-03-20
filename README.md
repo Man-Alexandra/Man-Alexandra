@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  ![GitHub Icon](https://cdn-icons-png.flaticon.com/128/733/733553.png) (https://badges.pufler.dev/commits/monthly/Man-Alexandra) contributions on GitHub
-| ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=radical) |
-| ![Repos Icon](https://cdn-icons-png.flaticon.com/128/9168/9168210.png) **Public Repos:** [Your Public Repos](https://github.com/your-username?tab=repositories) | 
-| ![Date Icon](https://cdn-icons-png.flaticon.com/128/7471/7471685.png) **Date of Joining:** ![Date Badge](https://badges.pufler.dev/created/your-username) | 
-| ![Email Icon](https://cdn-icons-png.flaticon.com/128/2530/2530217.png) **Email:** ale.man25@yahoo.ro |
+ ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=radical) 
+ ![Repos Icon](https://cdn-icons-png.flaticon.com/128/9168/9168210.png) **Public Repos:** [Your Public Repos](https://github.com/your-username?tab=repositories) 
+ ![Date Icon](https://cdn-icons-png.flaticon.com/128/7471/7471685.png) **Date of Joining:** ![Date Badge](https://badges.pufler.dev/created/your-username) 
+ ![Email Icon](https://cdn-icons-png.flaticon.com/128/2530/2530217.png) **Email:** ale.man25@yahoo.ro 
