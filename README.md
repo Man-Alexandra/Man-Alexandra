@@ -19,10 +19,10 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <ul>
-        <li><img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" width="20"/> <strong>Contributions:</strong> ![GitHub Contributions](https://badges.pufler.dev/commits/monthly/your-username) contributions on GitHub</li>
-        <li><img src="https://cdn-icons-png.flaticon.com/128/2991/2991148.png" width="20"/> <strong>Repos:</strong> [Your Public Repos](https://github.com/your-username?tab=repositories)</li>
-        <li><img src="https://cdn-icons-png.flaticon.com/128/747/747310.png" width="20"/> <strong>Date of Joining:</strong> ![GitHub Join Date](https://badges.pufler.dev/created/your-username)</li>
-        <li><img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" width="20"/> <strong>Email:</strong> [your-email@example.com]</li>
+        <li><img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" width="40"/> <strong>Contributions:</strong> ![GitHub Contributions](https://badges.pufler.dev/commits/monthly/Man-Alexandra) contributions on GitHub</li>
+        <li><img src="https://cdn-icons-png.flaticon.com/128/9168/9168210.png" width="40"/> <strong>public repos:</strong> [Your Public Repos](https://github.com/your-username?tab=repositories)</li>
+        <li><img src="https://cdn-icons-png.flaticon.com/128/7471/7471685.png" width="40"/> <strong>Date of Joining:</strong> ![GitHub Join Date](https://badges.pufler.dev/created/your-username)</li>
+        <li><img src="https://cdn-icons-png.flaticon.com/128/2530/2530217.png" width="40"/> <strong>Email:</strong> [your-email@example.com]</li>
       </ul>
     </td>
     <td>
