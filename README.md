@@ -19,7 +19,7 @@ Here are some ideas to get you started:
       <ul>
         <li><img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" width="20"/> 97 <!--(https://badges.pufler.dev/commits/all/Man-Alexandra)--> contributions on GitHub</li>
         <li><img src="https://cdn-icons-png.flaticon.com/128/9168/9168210.png" width="20"/> 7 public repos <!--(https://github.com/Man-Alexandra?tab=repositories)--></li>
-        <li><img src="https://cdn-icons-png.flaticon.com/128/7471/7471685.png" width="20"/> Joined GitHup 3 years ago !(https://badges.pufler.dev/created/Man-Alexandra)</li>
+        <li><img src="https://cdn-icons-png.flaticon.com/128/7471/7471685.png" width="20"/> Joined GitHub 3 years ago !(https://badges.pufler.dev/years/Man-Alexandra)</li>
         <li><img src="https://cdn-icons-png.flaticon.com/128/2530/2530217.png" width="20"/> ale.man25@yahoo.ro</li>
       </ul>
     </td>
