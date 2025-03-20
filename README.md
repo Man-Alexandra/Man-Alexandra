@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <tr>
     <td>
       <ul>
-        <li><img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" width="20"/> (https://badges.pufler.dev/commits/all/Man-Alexandra) contributions on GitHub</li>
+        <li><img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" width="20"/> 97 <--!(https://badges.pufler.dev/commits/all/Man-Alexandra)--> contributions on GitHub</li>
         <li><img src="https://cdn-icons-png.flaticon.com/128/9168/9168210.png" width="20"/> <strong>public repos:</strong> [Your Public Repos](https://github.com/your-username?tab=repositories)</li>
         <li><img src="https://cdn-icons-png.flaticon.com/128/7471/7471685.png" width="20"/> <strong>Date of Joining:</strong> !(https://badges.pufler.dev/created/your-username)</li>
         <li><img src="https://cdn-icons-png.flaticon.com/128/2530/2530217.png" width="20"/> <strong>Email:</strong> ale.man25@yahoo.ro</li>
