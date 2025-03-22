@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Man-Alexandra&layout=compact&theme=dark" width="450"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Man-Alexandra&layout=compact&theme=dark" width="350"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=Man-Alexandra&show_icons=true&count_private=true" width="450"/>
-        <\td>
+            <img src="https://github-readme-stats.vercel.app/api?username=Man-Alexandra&show_icons=true&count_private=true&theme=dark" width="350"/>
+        </td>
     </tr>
 </table>
 
