@@ -29,6 +29,15 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+<table>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Man-Alexandra&layout=compact&theme=dark" width="450"/>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=Man-Alexandra&show_icons=true&count_private=true" width="450"/>
+        <\td>
+    </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Man-Alexandra&layout=compact&theme=dark" width="450"/>
 
