@@ -25,7 +25,7 @@ Here are some ideas to get you started:
       </ul>
     </td>
     <td>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Man-Alexandra&theme=react-dark"&hide_border=true width="500"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Man-Alexandra&theme=react-dark&hide_border=true" width="500"/>
     </td>
   </tr>
 </table>
