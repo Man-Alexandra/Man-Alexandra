@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <tr>
     <td>
       <ul>
-        <li><img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" width="20"/> 97 <!--(https://badges.pufler.dev/commits/all/Man-Alexandra)--> contributions on GitHub</li>
+        <li><img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" width="20"/> 97 <!--(https://badges.pufler.dev/commits/all/Man-Alexandra)-->contributions on GitHub</li>
         <li><img src="https://cdn-icons-png.flaticon.com/128/9168/9168210.png" width="20"/> 7 public repos <!--(https://github.com/Man-Alexandra?tab=repositories)--></li>
         <li><img src="https://cdn-icons-png.flaticon.com/128/7471/7471685.png" width="20"/> Joined GitHub in 2024! <!--(https://badges.pufler.dev/years/Man-Alexandra)--></li>
         <li><img src="https://cdn-icons-png.flaticon.com/128/2530/2530217.png" width="20"/> ale.man25@yahoo.ro</li>
@@ -29,3 +29,6 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Man-Alexandra&layout=compact&theme=dark" width="450"/>
+
