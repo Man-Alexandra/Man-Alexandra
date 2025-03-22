@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Man-Alexandra&layout=compact&theme=dark&count_private=true&cache_seconds=3600&hide_border=true" width="200" height="200"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Man-Alexandra&layout=compact&theme=dark&count_private=true&cache_seconds=3600&hide_border=true" width="250" height="200"/>
         </td>
         <td>
             <img src="https://github-readme-stats.vercel.app/api?username=Man-Alexandra&show_icons=true&count_private=true&theme=dark&icon_color=5ea9b3&hide_border=true" width="500" height="200"/>
